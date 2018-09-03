@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="name_field_hint">Seu nome aqui, por favor</string>
+    <string name="toppings">Coberturas</string>
+    <string name="whiped_cream">Creme</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantidade</string>
+    <string name="order">Fazer pedido</string>
+    <string name="name_input">"Nome: "</string>
+    <string name="add_cream">"Adicionar creme: "</string>
+    <string name="add_choco">"Adicionar chocolate: "</string>
+    <string name="update_quantity">"Quantidade: "</string>
+    <string name="update_total">Total: R$</string>
+    <string name="thanks">Obrigada/</string>
+    <string name="min_order">Pelo menos um café.</string>
+    <string name="max_order">Dez cafés no máximo por pedido.</string>
+</resources>
