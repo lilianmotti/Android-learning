@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <!--Layout for order [CHAR LIMIT = NONE] -->
+    <string name="name_field_hint">Name hint</string>
+    <string name="toppings">Toppings</string>
+    <string name="whiped_cream">Whiped cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">Quantity</string>
+    <!--Order button [CHAR LIMIT = NONE] -->
+    <string name="order">Order</string>
+    <!--Order summary [CHAR LIMIT = NONE] -->
+    <string name="name_input">Name: </string>
+    <string name="add_cream">Add whiped cream? </string>
+    <string name="add_choco">Add chocolate? </string>
+    <string name="update_quantity">Quantity: </string>
+    <string name="update_total">Total: $</string>
+    <string name="thanks">Thank you!</string>
+
+    <!--toast message for minimum coffees [CHAR LIMIT = NONE] -->
+    <string name="min_order">At least 1 coffee please.</string>
+    <!--toast message for maximum number of coffees [CHAR LIMIT = NONE] -->
+    <string name="max_order">Maximum of 10 coffees per order.</string>
+
+</resources>
